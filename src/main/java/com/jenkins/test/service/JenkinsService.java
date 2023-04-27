@@ -5,5 +5,7 @@ package com.jenkins.test.service;
  * @Date: 2023/04/26 22:37:20
  * @Author: forever
  */
-public class JenkinsService {
+
+public interface JenkinsService {
+
 }
